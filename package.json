@@ -1,0 +1,16 @@
+{
+  "name": "backend-dev",
+  "version": "1.0.0",
+  "description": "a backend for the app ",
+  "keywords": [
+    "backend",
+    "video-app"
+  ],
+  "license": "ISC",
+  "author": "soaib",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
